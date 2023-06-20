@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.valeroman.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["5D:8D:F1:33:8A:38:8D:48:D7:D1:00:22:B6:48:4A:AC:AF:E8:22:E7:A9:E3:8E:9A:9C:3C:44:BF:27:B4:49:B5"]
+    }
+  }]
+  
